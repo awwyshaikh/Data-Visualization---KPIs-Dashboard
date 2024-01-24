@@ -1,1 +1,2 @@
 # Data-Visualization---KPIs-Dashboard
+Public View Link: https://app.powerbi.com/view?r=eyJrIjoiOTU5ZmNhMWItYmE2ZS00ZThkLTk4ZjctOTJhNGFmYzA2YmIxIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9
